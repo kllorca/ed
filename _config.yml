@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
+title:               Katherine Llorca
+tagline:             'Copyediting for legal academics &middot; 20 years experience'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Katherine Llorca
   url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  email:             kllorca@posteo.net
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme:        cyan
 
 # Permalinks
 permalink: pretty
